@@ -175,7 +175,7 @@ td, th {
 }
 
 pre, code {
-  font-family: inherit;
+  font-family: monospace;
   background-color: #eee;
 }
 
