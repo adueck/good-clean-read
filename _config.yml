@@ -2,8 +2,8 @@
 title: Good Clean Read
 tag_text: Good Clean Read
 description: A responsive template for publishing single-page websites, articles that are easy on the eyes
-url: "https://adueck.github.io/good-clean-read"
-baseurl: "/good-clean-read"
+url: "https://adueck.github.io" # base URL for your site ie. "https://www.example.com"
+baseurl: "/good-clean-read" # subpath for base of site, leave blank if hosting at root
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
